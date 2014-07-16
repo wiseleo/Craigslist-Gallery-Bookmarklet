@@ -1,4 +1,4 @@
-Select the entire block below and drag it to your Bookmarks bar.
+Select the entire block below and drag it to your Bookmarks bar
 
 javascript:(function(){
   var fixdate = document.createElement('script');
