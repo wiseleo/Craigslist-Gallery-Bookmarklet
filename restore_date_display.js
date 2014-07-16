@@ -1,4 +1,4 @@
-javascript: (function () {
+(function () {
 	var linkNode = document.createElement('link');
 	linkNode.rel = 'stylesheet';
 	linkNode.href = 'https://raw.githubusercontent.com/wiseleo/Craigslist-Gallery-Bookmarklet/master/override-date-display-cl.css';
