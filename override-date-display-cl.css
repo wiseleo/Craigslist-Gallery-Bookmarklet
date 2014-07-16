@@ -1,3 +1,5 @@
-.toc.grid #toc_rows .date {
-display: inline !important;
+.date {
+display: inline;
+font-weight: bold;
+color: red;
 }
